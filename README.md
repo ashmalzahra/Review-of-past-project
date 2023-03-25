@@ -20,12 +20,9 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-# trial-project
+# Review-of-past-project
 
-> This is a copy of code used in Admissions trial. It is used for understanding how the code review process works.
-
-Live Link
-In Progress
+ This is a copy of code used in Admissions trial. It is used for understanding how the code review process works.
 
 ## Built With
 
@@ -36,10 +33,10 @@ In Progress
 
 Clone this repository to get started with the project.
 
-
 ### Setup
--Clone the folder to your local machine.
--Create your pull request for reviewing code.
+
+- Clone the folder to your local machine.
+- Open a local copy of the project in your code editor.
 
 
 ## Authors
@@ -48,13 +45,13 @@ Clone this repository to get started with the project.
 
 - GitHub: [@githubhandle](https://github.com/ashmalzahra)
 - Twitter: [@twitterhandle](https://twitter.com/AshmalZahraa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra-35bb09242/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ashmalzahra/trial-project/issues).
+Feel free to check the [issues page](https://github.com/ashmalzahra/Review-of-past-project/issues).
 
 ## Show your support
 
