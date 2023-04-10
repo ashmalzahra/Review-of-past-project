@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](N/A)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,6 +117,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
